@@ -18,18 +18,10 @@ I created this GitHub to showcase cybersecurity labs, job simulations, and pract
 
 - Wireshark
 - Nmap / Zenmap
-- Nessus
-- Snort
 - Splunk
 - Windows Event Viewer
 - Active Directory
-- rsyslog
-- Tripwire
 - Windows Server Backup
-- HAProxy
-- Autopsy
-- Volatility
-- Malcolm
 - Velociraptor
 
 ## 📂 Featured Project
